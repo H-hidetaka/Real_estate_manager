@@ -40,3 +40,7 @@ https://fgh.co.jp/lab/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%8A%95%E8%B3%87%E5%AE%B6%E3%
 # 画面遷移図
 
 https://xd.adobe.com/view/d8458151-5298-4336-bb60-4f09a93ee5f9-8d16/
+
+# ERD
+
+https://app.diagrams.net/?libs=general;uml#HH-hidetaka%2FReal_estate_manager%2Fmaster%2FUntitled%20Diagram.drawio
